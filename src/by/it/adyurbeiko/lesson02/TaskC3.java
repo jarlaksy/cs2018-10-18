@@ -30,5 +30,10 @@ package by.it.adyurbeiko.lesson02;
 
 */
 class TaskC3 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner (System.in);
+        int we=sc.nextInt();
+        double wm=getWeight
+    }
 
 }
