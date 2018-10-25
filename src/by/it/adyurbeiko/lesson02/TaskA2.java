@@ -8,12 +8,10 @@ package by.it.adyurbeiko.lesson02;
 Для автоматической проверки откройте и запустите класс Testing
 */
 
-class Taska2 {
+class TaskA2 {
     public static void main(String[] args) {
-        System.out.println("Я начинаю изучать Javas");
-        System.out.println("Я начинаю изучать Javas");
-        System.out.println("Я начинаю изучать Javas");
-        System.out.println("Я начинаю изучать Javas");
-        System.out.println("Я начинаю изучать Javas");
+        for (int i = 0; i <5; i++) {
+            System.out.println("Я начинаю изучать Javas");
+        }
     }
 }
