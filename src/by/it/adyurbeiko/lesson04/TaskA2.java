@@ -24,6 +24,12 @@ package by.it.adyurbeiko.lesson04;
 
  */
 
-public class TaskA2 {
+import java.util.Scanner;
 
-}
+public class TaskA2 {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner (System.in);
+        int i=sc.nextInt();
+        switch (i) {
+    }
+}}
